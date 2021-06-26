@@ -40,6 +40,6 @@
 .form-style
 {
   direction: row;
-  justify: flex-start;
+  /*justify: flex-start;*/
   margin: left;
 }
